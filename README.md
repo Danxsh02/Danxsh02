@@ -1,22 +1,48 @@
-<p align="center"> <img src="./bento.svg" alt="Daniel Muñoz · Multimedia Engineer · Unity · VR/AR · UI/UX · Audio · 3D" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EE6A6&center=true&vCenter=true&width=720&lines=Multimedia+Engineer;Unity+%26+VR%2FAR+Developer;UI%2FUX+Designer;3D+Artist+%26+Sound+Design;Building+worlds+people+can+explore" alt="Typing animation" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20to%20work-0A2E24?style=for-the-badge&logoColor=2EE6A6" alt="Open to work" /> <img src="https://img.shields.io/badge/Cali,%20Colombia-061B22?style=for-the-badge&logoColor=00E5FF" alt="Cali, Colombia" /> <img src="https://img.shields.io/badge/Multimedia%20Engineering%20·%20UAO-061B22?style=for-the-badge&logoColor=00E5FF" alt="Multimedia Engineering · UAO" /> <img src="https://img.shields.io/badge/English%20·%20C2-061B22?style=for-the-badge&logoColor=2EE6A6" alt="English · C2" /> <img src="https://img.shields.io/badge/Español%20·%20Nativo-061B22?style=for-the-badge&logoColor=2EE6A6" alt="Español · Nativo" /> </p> <p align="center"> <a href="https://github.com/Danxsh02"><img src="https://img.shields.io/badge/GitHub-061B22?style=for-the-badge&logo=github&logoColor=00E5FF" /></a> <a href="https://www.linkedin.com/in/daniel-muñoz-delgado-04b90a362"><img src="https://img.shields.io/badge/LinkedIn-061B22?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a> <a href="mailto:Danimudel200502@gmail.com"><img src="https://img.shields.io/badge/Email-061B22?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a> <a href="https://danxsh02.github.io/portfolio/"><img src="https://img.shields.io/badge/Portafolio-061B22?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" /></a> <img src="https://komarev.com/ghpvc/?username=Danxsh02&label=Visitas&color=00E5FF&labelColor=061B22&style=for-the-badge" /> </p> <br>
-Sobre mí
+<p align="center"> <img src="./bento.svg" alt="Daniel Muñoz · Multimedia Engineer · Unity · VR/AR · UI/UX · Audio · 3D" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EE6A6&center=true&vCenter=true&width=720&lines=Multimedia+Engineer;Unity+%26+VR%2FAR+Developer;UI%2FUX+Designer;3D+Artist+%26+Sound+Design;Building+worlds+people+can+explore" alt="Typing animation" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20to%20work-0A2E24?style=for-the-badge&logoColor=2EE6A6" alt="Open to work" /> <img src="https://img.shields.io/badge/Cali,%20Colombia-061B22?style=for-the-badge&logoColor=00E5FF" alt="Cali, Colombia" /> <img src="https://img.shields.io/badge/Multimedia%20Engineering%20·%20UAO-061B22?style=for-the-badge&logoColor=00E5FF" alt="Multimedia Engineering · UAO" /> <img src="https://img.shields.io/badge/English%20·%20C2-061B22?style=for-the-badge&logoColor=2EE6A6" alt="English · C2" /> <img src="https://img.shields.io/badge/Español%20·%20Nativo-061B22?style=for-the-badge&logoColor=2EE6A6" alt="Español · Nativo" /> </p> <p align="center"> <a href="https://github.com/Danxsh02"><img src="https://img.shields.io/badge/GitHub-061B22?style=for-the-badge&logo=github&logoColor=00E5FF" /></a> <a href="https://www.linkedin.com/in/daniel-muñoz-delgado-04b90a362"><img src="https://img.shields.io/badge/LinkedIn-061B22?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a> <a href="mailto:Danimudel200502@gmail.com"><img src="https://img.shields.io/badge/Email-061B22?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a> <a href="https://danxsh02.github.io/portfolio/"><img src="https://img.shields.io/badge/Portafolio-061B22?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" /></a> <img src="https://komarev.com/ghpvc/?username=Danxsh02&label=Visitas&color=00E5FF&labelColor=061B22&style=for-the-badge" /> <div align="center">
+
+## Sobre mí
 
 Soy estudiante de Ingeniería Multimedia en la Universidad Autónoma de Occidente (Cali, Colombia). Casi todo lo que hago ocurre donde el código se encuentra con algo que se ve o se escucha: experiencias en VR y AR, videojuegos, interfaces y sonido.
 
-Programo sistemas de juego en Unity y C#: mecánicas, progresión, rankings, persecuciones, cinemáticas.
-Diseño y prototipo interfaces en Figma y las llevo a código.
-Modelo y renderizo en Blender, y edito audio y video con la suite de Adobe y Pro Tools.
-Trabajo en equipo: casi todos mis proyectos fueron colaborativos, y me gusta documentar y dividir bien el trabajo.
+Programo sistemas de juego en Unity y C#: mecánicas, progresión, rankings, persecuciones, cinemáticas.  
+Diseño y prototipo interfaces en Figma y las llevo a código.  
+Modelo y renderizo en Blender, y edito audio y video con la suite de Adobe y Pro Tools.  
+Trabajo en equipo: casi todos mis proyectos fueron colaborativos, y me gusta documentar y dividir bien el trabajo.  
 Hablo español nativo e inglés C2.
 
 Ahora mismo busco mi primera oportunidad profesional: roles junior, prácticas y colaboraciones.
 
-<p> <img src="https://img.shields.io/badge/Game%20Development-061B22?style=for-the-badge&logoColor=00E5FF" alt="Game Development" /> <img src="https://img.shields.io/badge/VR-061B22?style=for-the-badge&logoColor=00E5FF" alt="VR" /> <img src="https://img.shields.io/badge/AR-061B22?style=for-the-badge&logoColor=00E5FF" alt="AR" /> <img src="https://img.shields.io/badge/UI%2FUX%20Design-061B22?style=for-the-badge&logoColor=00E5FF" alt="UI/UX Design" /> <img src="https://img.shields.io/badge/3D%20Modeling-061B22?style=for-the-badge&logoColor=00E5FF" alt="3D Modeling" /> <img src="https://img.shields.io/badge/Sound%20Design-061B22?style=for-the-badge&logoColor=00E5FF" alt="Sound Design" /> <img src="https://img.shields.io/badge/Interactive%20Experiences-061B22?style=for-the-badge&logoColor=00E5FF" alt="Interactive Experiences" /> <img src="https://img.shields.io/badge/Backend-061B22?style=for-the-badge&logoColor=00E5FF" alt="Backend" /> <img src="https://img.shields.io/badge/Networking-061B22?style=for-the-badge&logoColor=00E5FF" alt="Networking" /> <img src="https://img.shields.io/badge/Web%20Development-061B22?style=for-the-badge&logoColor=00E5FF" alt="Web Development" /> </p> <br>
-Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Development-061B22?style=for-the-badge&logoColor=00E5FF" alt="Game Development" />
+  <img src="https://img.shields.io/badge/VR-061B22?style=for-the-badge&logoColor=00E5FF" alt="VR" />
+  <img src="https://img.shields.io/badge/AR-061B22?style=for-the-badge&logoColor=00E5FF" alt="AR" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-061B22?style=for-the-badge&logoColor=00E5FF" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/3D%20Modeling-061B22?style=for-the-badge&logoColor=00E5FF" alt="3D Modeling" />
+  <img src="https://img.shields.io/badge/Sound%20Design-061B22?style=for-the-badge&logoColor=00E5FF" alt="Sound Design" />
+  <img src="https://img.shields.io/badge/Interactive%20Experiences-061B22?style=for-the-badge&logoColor=00E5FF" alt="Interactive Experiences" />
+  <img src="https://img.shields.io/badge/Backend-061B22?style=for-the-badge&logoColor=00E5FF" alt="Backend" />
+  <img src="https://img.shields.io/badge/Networking-061B22?style=for-the-badge&logoColor=00E5FF" alt="Networking" />
+  <img src="https://img.shields.io/badge/Web%20Development-061B22?style=for-the-badge&logoColor=00E5FF" alt="Web Development" />
+</p>
 
-Videojuegos y XR
+<br>
 
-<p> <img src="https://img.shields.io/badge/Unity-061B22?style=flat-square&logoColor=2EE6A6&logo=unity" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-061B22?style=flat-square&logoColor=2EE6A6&logo=csharp" alt="C#" /> <img src="https://img.shields.io/badge/OpenXR-061B22?style=flat-square&logoColor=2EE6A6&logo=khronosgroup" alt="OpenXR" /> <img src="https://img.shields.io/badge/URP-061B22?style=flat-square&logoColor=2EE6A6" alt="URP" /> <img src="https://img.shields.io/badge/Input%20System-061B22?style=flat-square&logoColor=2EE6A6" alt="Input System" /> <img src="https://img.shields.io/badge/AR%20%2F%20VR-061B22?style=flat-square&logoColor=2EE6A6" alt="AR / VR" /> <img src="https://img.shields.io/badge/JSON-061B22?style=flat-square&logoColor=2EE6A6&logo=json" alt="JSON" /> <img src="https://img.shields.io/badge/Game%20Design-061B22?style=flat-square&logoColor=2EE6A6" alt="Game Design" /> </p>
+## Stack
+
+### Videojuegos y XR
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-061B22?style=flat-square&logoColor=2EE6A6&logo=unity" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-061B22?style=flat-square&logoColor=2EE6A6&logo=csharp" alt="C#" />
+  <img src="https://img.shields.io/badge/OpenXR-061B22?style=flat-square&logoColor=2EE6A6&logo=khronosgroup" alt="OpenXR" />
+  <img src="https://img.shields.io/badge/URP-061B22?style=flat-square&logoColor=2EE6A6" alt="URP" />
+  <img src="https://img.shields.io/badge/Input%20System-061B22?style=flat-square&logoColor=2EE6A6" alt="Input System" />
+  <img src="https://img.shields.io/badge/AR%20%2F%20VR-061B22?style=flat-square&logoColor=2EE6A6" alt="AR / VR" />
+  <img src="https://img.shields.io/badge/JSON-061B22?style=flat-square&logoColor=2EE6A6&logo=json" alt="JSON" />
+  <img src="https://img.shields.io/badge/Game%20Design-061B22?style=flat-square&logoColor=2EE6A6" alt="Game Design" />
+</p>
+
+</div>
 
 Web y backend
 
