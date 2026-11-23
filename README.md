@@ -86,5 +86,8 @@ AgroRed S.A.	Solución de red e intranet para una empresa agroindustrial fictici
 Más proyectos, con galerías y videos, en mi portafolio.
 
 <br>
-Estadísticas
+<div align="center">
+  
+### Estadísticas
+</div>
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Danxsh02&show_icons=true&icon_color=2EE6A6&ring_color=00E5FF&locale=es&hide_border=true&bg_color=020B10&title_color=00E5FF&text_color=B8FFF0" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danxsh02&layout=compact&hide_border=true&bg_color=020B10&title_color=00E5FF&text_color=B8FFF0" /> </p> <p align="center"> <img height="165" src="https://streak-stats.demolab.com?user=Danxsh02&hide_border=true&background=020B10&ring=00E5FF&fire=2EE6A6&currStreakLabel=2EE6A6&sideLabels=B8FFF0&currStreakNum=B8FFF0&sideNums=B8FFF0&dates=7FA8A0&locale=es" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Danxsh02&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danxsh02&bg_color=020B10&color=B8FFF0&line=00E5FF&point=2EE6A6&area=true&area_color=00E5FF&hide_border=true&custom_title=Actividad%20en%20GitHub" /> </p> <br> <p align="center"> <sub><i>"Las ideas que imaginamos pueden convertirse en mundos que otros pueden experimentar."</i></sub> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:2EE6A6&height=110&section=footer" />
