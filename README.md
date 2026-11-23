@@ -42,8 +42,8 @@ Ahora mismo busco mi primera oportunidad profesional: roles junior, prácticas y
   <img src="https://img.shields.io/badge/Game%20Design-061B22?style=flat-square&logoColor=2EE6A6" alt="Game Design" />
 </p>
 
-</div>
-<br>
+
+
 ### Web y backend
 
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-061B22?style=flat-square&logoColor=2EE6A6&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-061B22?style=flat-square&logoColor=2EE6A6&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-061B22?style=flat-square&logoColor=2EE6A6&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-061B22?style=flat-square&logoColor=2EE6A6&logo=nodedotjs" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-061B22?style=flat-square&logoColor=2EE6A6&logo=express" alt="Express" /> <img src="https://img.shields.io/badge/REST%20APIs-061B22?style=flat-square&logoColor=2EE6A6" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT-061B22?style=flat-square&logoColor=2EE6A6&logo=jsonwebtokens" alt="JWT" /> <img src="https://img.shields.io/badge/MySQL-061B22?style=flat-square&logoColor=2EE6A6&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/PHP-061B22?style=flat-square&logoColor=2EE6A6&logo=php" alt="PHP" /> <img src="https://img.shields.io/badge/WordPress-061B22?style=flat-square&logoColor=2EE6A6&logo=wordpress" alt="WordPress" /> <img src="https://img.shields.io/badge/WooCommerce-061B22?style=flat-square&logoColor=2EE6A6&logo=woocommerce" alt="WooCommerce" /> <img src="https://img.shields.io/badge/Elementor-061B22?style=flat-square&logoColor=2EE6A6&logo=elementor" alt="Elementor" /> <img src="https://img.shields.io/badge/Apache-061B22?style=flat-square&logoColor=2EE6A6&logo=apache" alt="Apache" /> </p>
@@ -65,7 +65,7 @@ Ahora mismo busco mi primera oportunidad profesional: roles junior, prácticas y
 <p align="center"> <img src="https://img.shields.io/badge/Git-061B22?style=flat-square&logoColor=2EE6A6&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-061B22?style=flat-square&logoColor=2EE6A6&logo=github" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-061B22?style=flat-square&logoColor=2EE6A6&logo=visualstudiocode" alt="VS Code" /> <img src="https://img.shields.io/badge/Visual%20Studio-061B22?style=flat-square&logoColor=2EE6A6&logo=visualstudio" alt="Visual Studio" /> <img src="https://img.shields.io/badge/Vercel-061B22?style=flat-square&logoColor=2EE6A6&logo=vercel" alt="Vercel" /> </p>
 
 ### Explorando
-
+</div>
 <p align="center"> <img src="https://img.shields.io/badge/React-061B22?style=flat-square&logoColor=2EE6A6&logo=react" alt="React" /> </p> <br>
 Proyectos destacados
 
