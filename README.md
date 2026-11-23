@@ -65,9 +65,12 @@ Ahora mismo busco mi primera oportunidad profesional: roles junior, prácticas y
 <p align="center"> <img src="https://img.shields.io/badge/Git-061B22?style=flat-square&logoColor=2EE6A6&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-061B22?style=flat-square&logoColor=2EE6A6&logo=github" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-061B22?style=flat-square&logoColor=2EE6A6&logo=visualstudiocode" alt="VS Code" /> <img src="https://img.shields.io/badge/Visual%20Studio-061B22?style=flat-square&logoColor=2EE6A6&logo=visualstudio" alt="Visual Studio" /> <img src="https://img.shields.io/badge/Vercel-061B22?style=flat-square&logoColor=2EE6A6&logo=vercel" alt="Vercel" /> </p>
 
 ### Explorando
-</div>
+
 <p align="center"> <img src="https://img.shields.io/badge/React-061B22?style=flat-square&logoColor=2EE6A6&logo=react" alt="React" /> </p> <br>
-Proyectos destacados
+
+### Proyectos destacados
+
+</div>
 
 Trabajos académicos y personales, casi todos en equipo. Los repositorios que no son míos pertenecen a mis compañeros de equipo.
 
